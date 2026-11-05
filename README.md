@@ -26,3 +26,15 @@ Python, pandas, numpy, matplotlib, scikit-learn
 1. Install the libraries: `pip install -r requirements.txt`
 2. Open `house_price_prediction.ipynb` in Jupyter Notebook or Google Colab
 3. Run all cells
+
+# House Price Prediction
+
+A machine learning project that predicts house prices using [dataset name or source].
+
+## What it does
+- Cleans and analyses the data using Pandas
+- Trains a [model name, e.g. Linear Regression] model to predict prices
+- Evaluates the model using [metric, e.g. R2 score]
+
+## Tech Used
+Python, NumPy, Pandas, [other libraries you used]
